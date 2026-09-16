@@ -1,5 +1,5 @@
 {
-  "index_sha256": "0d92827abadc888fbc8b7cf5510daf7c25e8486c2f3e3829563c63ae205edfb7",
+  "index_sha256": "03491872c974da1b8e473efb963cdec3a89d08f3a26c33211ffc50dda4f7fca4",
   "index_bytes": 59044,
   "models": [
     {
@@ -7,19 +7,19 @@
       "title": "整栋外观",
       "cutaway": false,
       "min": [
-        -7.48649999499321,
-        -10.274999499320984,
+        -7.482166677713394,
+        -10.27451479434967,
         0
       ],
       "size": [
-        14.97299998998642,
-        20.549998998641968,
+        14.964333355426788,
+        20.54902958869934,
         15.081315040588379
       ],
-      "vertices": 516414,
-      "opaqueVertices": 511650,
-      "asset": "models/exterior.bin?v=9e2230337c810875",
-      "sha256": "9e2230337c810875cf96c31ad2b6851fe2edabdee443df4f62bd7da39574773d"
+      "vertices": 154923,
+      "opaqueVertices": 154743,
+      "asset": "models/exterior.bin?v=78835562824414d2",
+      "sha256": "78835562824414d272f640df8b6a9b70e3ea395d3ce86212b2ed4555d633179a"
     },
     {
       "min": [
